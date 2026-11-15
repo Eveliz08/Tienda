@@ -1,0 +1,7 @@
+ID,Nombre,Descripción,Clase,Clase específica,Precio,Estado,Destacados
+XD_01,Papel de depilación,Rollo de 10 metros,Depilación,,1500,Más de 10 unidades,
+XD_02,Aplicador de madera,,Depilación,,50,Más de 10 unidades,
+XD_03,Olla de silicona,,Depilación,Ollas,5000,Agotado,True
+XD_04,Olla,,Depilación,Ollas,7200,Pocas unidades,True
+XD_05,Cera fría,No requiere calor,Depilación,Ceras,1600,Más de 10 unidades,
+XD_06,Cera granulada,,Depilación,Ceras,1600,Agotado,
